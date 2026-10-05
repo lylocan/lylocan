@@ -1,38 +1,41 @@
 <div align="center">
 
-<!-- Header Banner: Pure Black "L" -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:000000,50:080808,100:000000&text=L&fontColor=ffffff&fontSize=100&fontAlignY=50&stroke=1f1f1f&strokeWidth=1&desc=C%2B%2B%20DEVELOPER%20%E2%80%A2%20REVERSE%20ENGINEER%20%E2%80%A2%20LOW%20LEVEL&descSize=14&descAlignY=78&descColor=737373&animation=fadeIn"/>
+<!-- Death Note L İkonik Gotik Logo -->
+<img src="https://raw.githubusercontent.com/gist/sub-zero96/447a16e8b4e77cb3664d962a63259d6e/raw/death-note-l.svg" width="90" alt="L"/>
+
+<br><br>
+
+# 𝕷𝖄𝕷𝕺𝕮𝕬𝕹
+
+`REVERSE ENGINEER` • `C++ DEVELOPER` • `FIVEM INTERNALS`
 
 <br>
 
-<!-- Typing Line -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=19&duration=2500&pause=900&color=E5E5E5&center=true&vCenter=true&width=650&lines=Low-level+is+the+only+level.;C%2B%2B+%7C+x86%2Fx64+ASM+%7C+WinAPI.;Reverse+Engineering+%26+Memory+Analysis.;FiveM+Tooling+%26+Internal+Hooks.;Always+one+step+ahead."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2400&pause=800&color=E0E0E0&center=true&vCenter=true&width=600&lines=Low-level+is+the+only+level.;x86%2Fx64+ASM+%7C+WinAPI+%7C+Kernel.;FiveM+Tooling+%26+Memory+Dissection.;Always+one+step+ahead."/>
 
-<br>
+<br><br>
 
-![](https://img.shields.io/badge/FOCUS-REVERSING-000000?style=flat-square&labelColor=0d0d0d&color=333333)
-![](https://img.shields.io/badge/CORE-C++_LOW_LEVEL-000000?style=flat-square&labelColor=0d0d0d&color=888888)
-![](https://img.shields.io/badge/TARGET-FIVEM_INTERNALS-000000?style=flat-square&labelColor=0d0d0d&color=e50914)
+![](https://img.shields.io/badge/STATUS-ACTIVE-000000?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/FOCUS-REVERSING-000000?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/TARGET-FIVEM_CORE-990000?style=for-the-badge&logoColor=white)
 
 </div>
 
-<br>
+---
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-### ♟️ Dossier
+### ♟️ Dossier // System Architecture
 
 ```cpp
-class L {
+class Lylocan {
 public:
-    const char* stack[]  = { "C++", "ASM", "WinAPI" };
-    const char* focus    = "Reverse Engineering & FiveM";
-    bool lowLevel        = true;
+    const char* stack[]  = { "C++", "x86/x64 ASM", "WinAPI" };
+    const char* focus    = "FiveM Internals & Anti-Cheat Dissection";
+    bool lowLevelOnly    = true;
 
     void routine() {
-        disassemble();
-        analyzeMemory();
+        while (true) {
+            hookMemory();
+            disassemble();
+        }
     }
 };
