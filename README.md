@@ -90,5 +90,3 @@ public:
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-
-i?type=waving&height=120&section=footer&color=0:0a0a0a,50:0d1b2a,100:0a0a0a"/>
