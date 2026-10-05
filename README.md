@@ -2,7 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,50:0a0a0a,100:000000&text=LYLOCAN&fontColor=ffffff&fontSize=80&fontAlignY=45&stroke=ffffff&strokeWidth=1&desc=FiveM%20Internal%20Core%20•%20C%2B%2B%20Developer%20•%20Reverse%20Engineer&descSize=18&descAlignY=68&descColor=888888&animation=twinkling"/>
 
-<br>
+<br><br>
+
+<!-- Death Note L GIF -->
+<img src="https://c.tenor.com/Fw57n89hQhMAAAAC/l-lawliet-death-note.gif" width="180" style="border-radius: 8px;"/>
+
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Low+Level+Is+The+Only+Level.;FiveM+Internal+Developer.;Reverse+Engineering+%26+Memory+Analysis.;C%2B%2B+%7C+ASM+%7C+WinAPI.;Always+One+Step+Ahead."/>
 
