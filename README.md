@@ -1,44 +1,37 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:000000,50:080808,100:000000&text=%F0%9D%95%83&fontColor=ffffff&fontSize=100&fontAlignY=50&stroke=222222&strokeWidth=1&desc=ANONYMOUS%20INVESTIGATOR%20%E2%80%A2%20LOW%20LEVEL%20ANALYST&descSize=14&descAlignY=78&descColor=777777&animation=fadeIn"/>
+<!-- Header Banner: Pure Black & L-Gothic Tone -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:000000,50:0a0a0a,100:000000&text=%F0%9D%95%83YLOCAN&fontColor=ffffff&fontSize=65&fontAlignY=48&stroke=1f1f1f&strokeWidth=1&desc=FiveM%20Internal%20Engineering%20%E2%80%A2%20Reverse%20Engineer%20%E2%80%A2%20C%2B%2B&descSize=15&descAlignY=74&descColor=737373&animation=fadeIn"/>
 
 <br>
 
-<!-- Typing SVG: Death Note & Hacker Quotes -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=3000&pause=1000&color=E6E6E6&center=true&vCenter=true&width=750&lines=I+am+L.;There+are+many+types+of+monsters+in+this+world.;Low-level+internals+revealed+in+the+shadows.;Solving+the+impossible+puzzle.;Execution+at+ring0."/>
+<!-- Typing Line -->
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=19&duration=2600&pause=900&color=E5E5E5&center=true&vCenter=true&width=650&lines=I+am+Lylocan.;Operating+from+the+shadows.;FiveM+Private+Core+Architect.;Low-level+memory+analysis+%26+hooks.;Ring0+%7C+x64+ASM+%7C+C%2B%2B."/>
 
 <br>
 
-![](https://img.shields.io/badge/STATUS-SHADOWS-000000?style=flat-square&labelColor=111111&color=333333)
-![](https://img.shields.io/badge/SYSTEM-OBSERVER-000000?style=flat-square&labelColor=111111&color=e50914)
-![](https://img.shields.io/badge/TARGET-REVERSE_ENGINEERING-000000?style=flat-square&labelColor=111111&color=ffffff)
+![](https://img.shields.io/badge/STATUS-ACTIVE-000000?style=flat-square&labelColor=0d0d0d&color=333333)
+![](https://img.shields.io/badge/CORE-FiveM_Private-000000?style=flat-square&labelColor=0d0d0d&color=888888)
+![](https://img.shields.io/badge/ACCESS-RING0-000000?style=flat-square&labelColor=0d0d0d&color=e50914)
 
 </div>
 
 <br>
 
-<table width="100%" style="background-color: #050505; border-collapse: collapse;">
+<table width="100%">
 <tr>
 <td width="55%" valign="top">
 
-### ♟️ Dossier // The Enigma
+### ♟️ Dossier // Lylocan
 
 ```cpp
-#include <memory>
-#include <shadows>
-
-class InvestigatorL {
-private:
-    const char* identity = "Unknown";
-    bool operatesInLight = false;
-
+class Lylocan {
 public:
-    inline void deduceTarget() {
-        while (!resolved) {
-            analyzeMemory();
-            disassemble();
-            remainSilent();
-        }
+    const char* project  = "FiveM Private Toolchain";
+    const char* focus[]  = { "Hooking", "SDKs", "Memory Analysis" };
+    bool inTheShadows    = true;
+
+    void execute() {
+        while (true) bypassAnalysis();
     }
 };
